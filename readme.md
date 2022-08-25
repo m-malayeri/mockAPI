@@ -1,4 +1,4 @@
-## About Laravel
+## About mockAPI
 
 mockAPI is a configurable and simple tool to create different type of API responses that can feed other projects such as apiFlow
 
