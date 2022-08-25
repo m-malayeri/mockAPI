@@ -4,4 +4,4 @@ mockAPI is a configurable and simple tool to create different type of API respon
 
 ## License
 
-The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The mockAPI framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
